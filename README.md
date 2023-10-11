@@ -2,7 +2,7 @@
 - 👀 I’m interested in <video-games> </videogames>
 - 🌱 I’m currently learning <c#> </c#>
 - 💞️ I’m looking to collaborate on any hack client
-- 📫 How to reach me: Dont pls 
+- 📫 How to reach me:
 
 <!---
 GAbrielongo/GAbrielongo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
